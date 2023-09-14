@@ -54,7 +54,7 @@
                     </form>
                     <br>
                     <div class="form-actions">
-                      <a class="btn btn-primary" href="index.php"><span class="glyphicon glyphicon-arrow-left"></span> Regresar</a>
+                      <a class="btn btn-primary" href="../index.php"><span class="glyphicon glyphicon-arrow-left"></span> Regresar</a>
                     </div>
                 </div> 
                 <div class="col-sm-6 site">
